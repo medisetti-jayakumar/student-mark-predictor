@@ -53,13 +53,13 @@
  ## 9. Result
   #### The input page looks like as follows:
 
-  ![Alt text](<Screenshot 2023-12-23 105151.png>)
+![Alt text](<Screenshot 2023-12-23 105151.png>)
 
- ![Alt text](![Alt text](<Screenshot 2023-12-23 105237.png>))
+![Alt text](![Alt text](<Screenshot 2023-12-23 105237.png>))
 
  ### Output result looks like :
  #### The grade percentage for the student studied for 7 hours
 ![Alt text](<Screenshot 2023-12-23 105301.png>)
 
  #### The grade percentage for the student studeied for the 9 hours
- ![Alt text](<Screenshot 2023-12-23 105324.png>)
+![Alt text](<Screenshot 2023-12-23 105324.png>)
