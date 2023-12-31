@@ -3,54 +3,51 @@
 
 ### This app is used to predict the grade percentage based on the student spent on hours of study
 
-when we enter the student studied hours in the entry box ,then click it.It automatically generates the grade percentage.
+ when we enter the student studied hours in the entry box ,then click it.It automatically generates the grade percentage.
 
 ###### The entire code will be here:
-[Entire code](https://github.com/medisetti-jayakumar/student-mark-predictor)
+ [Entire code](https://github.com/medisetti-jayakumar/student-mark-predictor)
 
 ## 2. languages used
 
-- HTML
-- CSS
-- FLASK
-- PYTHON
-- MACHINE LEARNING (simple linear regression)
+ - HTML
+ - CSS
+ - FLASK
+ - PYTHON
+ - MACHINE LEARNING (simple linear regression)
 
 ## 3. installed packages
 
-
-### install the flask library
-
-pip install m- flask
+ Install the requirements.txt
 
 #### - Assigning the environment to the flask app 
-$env:FLASK_APP = "app.py"
+ $env:FLASK_APP = "app.py"
 
 ## 4. Run the app
-flask run
+ flask run
 
  ## 5. Download the Data
 
- + [input-data-in-CSV format](https://github.com/medisetti-jayakumar/student-mark-predictor/blob/main/input_student_info.csv)
+  +  [input-data-in-CSV format](https://github.com/medisetti-jayakumar/student-mark-predictor/blob/main/input_student_info.csv)
 
 
 ## 6. Creating the html page
-HTMl & CSS code will present in this link
+ HTMl & CSS code will present in this link
 
-[HTML & CSS CODE](https://github.com/medisetti-jayakumar/student-mark-predictor/blob/main/index.html)
+ [HTML & CSS CODE](https://github.com/medisetti-jayakumar/student-mark-predictor/blob/main/index.html)
 
 ## 7. Model building
 
-In this notebook , build the simple linear regression machine learning model 
+ In this notebook , build the simple linear regression machine learning model 
 
-[jupyter-notebook-will be here](https://github.com/medisetti-jayakumar/student-mark-predictor/blob/main/students_marks_notebook.ipynb)
+ [jupyter-notebook-will be here](https://github.com/medisetti-jayakumar/student-mark-predictor/blob/main/students_marks_notebook.ipynb)
 
 ## 8. Creating the flask application
- The entire flask code will be here
+  The entire flask code will be here
 
-+ [flask host and port](https://github.com/medisetti-jayakumar/student-mark-predictor/blob/main/flask%20practise.py)
+  + [flask host and port](https://github.com/medisetti-jayakumar/student-mark-predictor/blob/main/flask%20practise.py)
 
- + [flask application code](https://github.com/medisetti-jayakumar/student-mark-predictor/blob/main/app1.py)
+  + [flask application code](https://github.com/medisetti-jayakumar/student-mark-predictor/blob/main/app1.py)
 
 
  ## 9. Result
