@@ -53,7 +53,8 @@
  ## 9. Result
   #### The input page looks like as follows:
 
-![Alt text](<Screenshot 2023-12-23 105151.png>)
+student-mark-predictor
+/Screenshot 2023-12-23 105151.png
 
 ![Alt text](![Alt text](<Screenshot 2023-12-23 105237.png>))
 
