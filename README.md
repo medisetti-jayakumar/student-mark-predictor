@@ -6,25 +6,25 @@
  when we enter the student studied hours in the entry box ,then click it.It automatically generates the grade percentage.
 
 ###### The entire code will be here:
- [Entire code](https://github.com/medisetti-jayakumar/student-mark-predictor)
+ [Complete code](https://github.com/medisetti-jayakumar/student-mark-predictor)
 
 ## 2. languages used
 
- - HTML
- - CSS
- - FLASK
- - PYTHON
- - MACHINE LEARNING (simple linear regression)
+    - HTML
+    - CSS
+    - FLASK
+    - PYTHON
+    - MACHINE LEARNING (simple linear regression)
 
 ## 3. installed packages
 
- Install the requirements.txt
+    Install the requirements.txt
 
 #### - Assigning the environment to the flask app 
- $env:FLASK_APP = "app.py"
+    $env:FLASK_APP = "app.py"
 
 ## 4. Run the app
- flask run
+    flask run
 
  ## 5. Download the Data
 
@@ -52,15 +52,15 @@
 
  ## 9. Result
   #### The input page looks like as follows:
+  ![Alt text](<image_folder/Screenshot 2023-12-23 105151.png>)
 
-student-mark-predictor
-/Screenshot 2023-12-23 105151.png
+#### Enter the time(hours) in Student-mark-predictor-application input page as follows:
 
-![Alt text](![Alt text](<Screenshot 2023-12-23 105237.png>))
+![Alt text](<image_folder/Screenshot 2023-12-23 105237.png>)
 
  ### Output result looks like :
  #### The grade percentage for the student studied for 7 hours
-![Alt text](<Screenshot 2023-12-23 105301.png>)
+![Alt text](<image_folder/Screenshot 2023-12-23 105301.png>)
 
  #### The grade percentage for the student studeied for the 9 hours
-![Alt text](<Screenshot 2023-12-23 105324.png>)
+![Alt text](<image_folder/Screenshot 2023-12-23 105324.png>)
